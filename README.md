@@ -1,7 +1,7 @@
 # :wave: Hi, I am Rafael Fontes 😃 
 
 ## :coffee: About me 
-I'm a self-taught developer with a Electrical Enginnering background.\
+I'm a self-taught developer with a Electrical Engineering background.\
 I'm currently learning Java language.\
 You can email me at rafaelfontes777@hotmail.com. I'll try to respond as soon as possible!
 
